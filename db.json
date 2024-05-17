@@ -1,21 +1,122 @@
 {
-    "cases": [
-        {
-            "imagem": "https://unsplash.it/600/400?image=14",
-            "descricao": "Uma empresa de tecnologia lança um desafio de gamificação onde os funcionários devem propor e implementar ideias inovadoras."
-        },
-        {
-            "imagem": "https://unsplash.it/600/400?image=41",
-            "descricao": "Uma empresa de consultoria cria uma narrativa interativa de gamificação para seu programa de treinamento"
-        },
-        {
-            "imagem": "https://unsplash.it/600/400?image=23",
-            "descricao": "Uma empresa de vendas implementa uma competição gamificada entre equipes que competem pelo topo do ranking"
-        },
-        {
-            "imagem": "https://unsplash.it/600/400?image=62",
-            "descricao": "Uma empresa de saúde promove o bem-estar dos funcionários através de um desafio de gamificação de condicionamento físico"
-        } 
-    ],
-    "solicitacoes": {}
+  "cases": [
+    {
+      "imagem": "https://unsplash.it/600/400?image=14",
+      "descricao": "Uma empresa de tecnologia lança um desafio de gamificação onde os funcionários devem propor e implementar ideias inovadoras.",
+      "id": "ae7f"
+    },
+    {
+      "imagem": "https://unsplash.it/600/400?image=41",
+      "descricao": "Uma empresa de consultoria cria uma narrativa interativa de gamificação para seu programa de treinamento",
+      "id": "c5f3"
+    },
+    {
+      "imagem": "https://unsplash.it/600/400?image=23",
+      "descricao": "Uma empresa de vendas implementa uma competição gamificada entre equipes que competem pelo topo do ranking",
+      "id": "a314"
+    },
+    {
+      "imagem": "https://unsplash.it/600/400?image=62",
+      "descricao": "Uma empresa de saúde promove o bem-estar dos funcionários através de um desafio de gamificação de condicionamento físico",
+      "id": "dbad"
+    }
+  ],
+  "solicitacoes": [
+    {
+      "id": "8bc0",
+      "nome": "",
+      "email": "",
+      "descricao": ""
+    },
+    {
+      "id": "3ab9",
+      "nome": "Pedro",
+      "email": "Pedrohenrique777@gmail.com",
+      "descricao": "Pedro Henrique"
+    },
+    {
+      "id": "7d0b",
+      "nome": "Pedro Henrique",
+      "email": "Pedro@gamificaai.com",
+      "descricao": "Teste"
+    },
+    {
+      "id": "5805",
+      "nome": "Pedro Henrique",
+      "email": "Pedro@gamificaai.com",
+      "descricao": "Teste"
+    },
+    {
+      "id": "7eb8",
+      "nome": "Pedro Henrique",
+      "email": "Pedro@gamificaai.com",
+      "descricao": "Teste"
+    },
+    {
+      "id": "0a87",
+      "nome": "akaakakkaka",
+      "email": "lalalalsakss@gmail.com",
+      "descricao": "aakkakakak"
+    },
+    {
+      "id": "66bd",
+      "nome": "aasaa",
+      "email": "Pedro@gamificaai.com",
+      "descricao": "asadawda"
+    },
+    {
+      "id": "2083",
+      "nome": "asadasdad",
+      "email": "Pedro@gamificaai.com",
+      "descricao": "adadadadada"
+    },
+    {
+      "id": "5776",
+      "nome": "asadada",
+      "email": "adadadadadadad@gmail.com",
+      "descricao": "adadssssssssssssssasssxadwsdwsawswsdwa"
+    },
+    {
+      "id": "4c0b",
+      "nome": "adadsdasdas",
+      "email": "dadadad@gmail.com",
+      "descricao": "adadasdada"
+    },
+    {
+      "id": "7d38",
+      "nome": "asda",
+      "email": "adads@gmail.com",
+      "descricao": "adadsdadadadadada"
+    },
+    {
+      "id": "fac0",
+      "nome": "Pedro Henrique",
+      "email": "Pedro@gamificaai.com",
+      "descricao": "akkskaskkad"
+    },
+    {
+      "id": "d89d",
+      "nome": "sadasdaa",
+      "email": "adadadadadadad@gmail.com",
+      "descricao": "adasdaasdawdsdaw"
+    },
+    {
+      "id": "0f2b",
+      "nome": "asdadssa",
+      "email": "kaskkdaskkkkadk@gmail.com",
+      "descricao": "adsasad"
+    },
+    {
+      "id": "6919",
+      "nome": "asaa",
+      "email": "asadas@asasada",
+      "descricao": "sadada"
+    },
+    {
+      "id": "14a6",
+      "nome": "Pedro Henrique",
+      "email": "Pedro@gamificaai.com",
+      "descricao": "teste"
+    }
+  ]
 }
